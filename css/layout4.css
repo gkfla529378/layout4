@@ -1,0 +1,36 @@
+*{font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Open Sans', sans-serif;margin:0; padding: 0;list-style: none;}
+
+#wrap{
+    width: 98%;
+    height: 700px;
+    background-color: #D7DBD1;
+    margin: 30px auto;
+    box-shadow: 1px 1px 10px black;
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #BBC7BA;
+}
+#wrap .box1{
+    width: 100%;
+    height: 80%;
+    margin: 0 auto;
+}
+#wrap .box1 li{
+    width: 100%;
+    height: 100px;
+    background-color: #99A89E;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 10px 0 0 0;
+}
+#wrap .box1 li i{font-size: 80px; float: left;}
+#wrap .box1 li input{width: 90%; height: 60px; margin-top: 10px;margin-left: 25px;}
+#wrap .box1 .btn{
+    width: 100px;
+    height: 500px;
+    border: none;
+}
